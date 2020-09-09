@@ -20,11 +20,11 @@ body {
 }
 .first img {
     position:absolute;
-    left:65%
-    top:35px
-    max-width:30px
-    max-height:auto
-    opacity:0.06
+    float:right;
+    top:35px;
+    max-width:30px;
+    max-height:auto;
+    opacity:0.06;
 }
 a {
     color:white;
