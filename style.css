@@ -1,29 +1,22 @@
 body {
     font-family:"Montserrat";
     background-color:black;
+    background-image:url("mir-an.png");
+    background-position:75% 30px;
+    background-repeat:no-repeat;
+    background-size:50px auto;
     color:white;
     max-width:90%;
     margin:0 auto;
     margin-top:100px;
     margin-bottom:50px;
 }
-.first {
-    position:relative;
-}
-.first h1 {
+h1 {
     font-family:"Akira";
     font-size:320%;
     position:relative;
     top:10px;
     margin-bottom:0;
-}
-.first img {
-    position:absolute;
-    float:right;
-    top:35px;
-    max-width:100px;
-    max-height:auto;
-    opacity:0.06;
 }
 a {
     color:white;
