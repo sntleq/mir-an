@@ -9,9 +9,9 @@ body {
 }
 .yawa {
     background-image:url("mir-an.png");
-    background-position:80% 0%;
     background-repeat:no-repeat;
     background-size:contain;
+    overflow:hidden;
 }
 h1 {
     font-family:"Akira";
