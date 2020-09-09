@@ -2,9 +2,9 @@ body {
     font-family:"Montserrat";
     background-color:black;
     background-image:url("mir-an.png");
-    background-position:75% 60px;
+    background-position:75% 20%;
     background-repeat:no-repeat;
-    background-size:100px auto;
+    background-size:200px 400px;
     color:white;
     max-width:90%;
     margin:0 auto;
