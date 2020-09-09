@@ -21,7 +21,8 @@ body {
     position:absolute;
     left:65%
     top:35px
-    max-width:128px
+    max-width:30px
+    max-height:auto
     opacity:0.06
 }
 a {
