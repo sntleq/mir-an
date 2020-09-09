@@ -9,7 +9,6 @@ body {
 }
 .first {
     position:relative;
-    overflow:hidden;
 }
 .first h1 {
     font-family:"Akira";
