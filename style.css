@@ -1,15 +1,17 @@
 body {
     font-family:"Montserrat";
     background-color:black;
-    background-image:url("mir-an.png");
-    background-position:75% 20%;
-    background-repeat:no-repeat;
-    background-size:contain;
     color:white;
     max-width:90%;
     margin:0 auto;
     margin-top:100px;
     margin-bottom:50px;
+}
+.yawa {
+    background-image:url("mir-an.png");
+    background-position:80% 0%;
+    background-repeat:no-repeat;
+    background-size:contain;
 }
 h1 {
     font-family:"Akira";
