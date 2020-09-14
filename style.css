@@ -67,24 +67,20 @@ a {
 }
 
 @media (orientation:landscape) {
-    body {
-        margin:0 auto;
-        margin-top:0;
-    }
     .yawa {
         float:left;
         max-width: 60%;
         max-height: auto;
+        position:relative;
+        top:100px;
     }
     .cards {
         float:right;
         max-width:40%;
         max-height:100%;
-        overflow: auto;
+        overflow:auto;
     }
     footer {
         position:absolute;
-        left:10%;
         bottom:50px;
-    
 }
