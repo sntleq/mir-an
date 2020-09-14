@@ -72,15 +72,14 @@ a {
         max-width: 60%;
         max-height: auto;
         position:relative;
-        top:100px;
+        top:40%;
     }
     .cards {
         float:right;
         max-width:40%;
         max-height:100%;
-        overflow:auto;
+        overflow:scroll;
     }
     footer {
-        position:absolute;
         bottom:50px;
 }
