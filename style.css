@@ -77,8 +77,8 @@ a {
     .cards {
         float:right;
         max-width:40%;
-        max-height:100%;
-        overflow:scroll;
+        height:100%;
+        overflow:auto;
     }
     footer {
         bottom:50px;
