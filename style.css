@@ -67,6 +67,9 @@ a {
 }
 
 @media (orientation:landscape) {
+    body {
+        margin:0 auto;
+    }
     .yawa {
         float:left;
         max-width: 60%;
@@ -74,8 +77,9 @@ a {
     }
     .cards {
         float:right;
-        max-width:30%;
+        max-width:40%;
         max-height:100%;
-        overflow: scroll;
+        overflow: auto;
     }
+    
 }
