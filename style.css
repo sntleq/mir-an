@@ -65,3 +65,14 @@ a {
   font-family:Montserrat;
   src:url("montserrat-regular.otf") format("opentype");
 }
+
+@media (orientation:landscape) {
+    .yawa {
+        position: fixed;
+        max-width: 60%
+    }
+    .cards {
+        float:right;
+        max-width:30%
+    }
+}
