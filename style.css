@@ -45,6 +45,9 @@ h1 {
     padding:13px 18px;
     border-radius:25px;
 }
+footer {
+    margin-bottom:50px;
+}
 @font-face {
   font-family:"Akira";
   src:url("akira-expanded-demo.otf") format("opentype");
