@@ -38,9 +38,9 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    bottom:5%;
-    left:70%;
-    color:rgba(225,225,225,0.5);
+    bottom:15%;
+    left:30%;
+    color:rgba(225,225,225,0.2);
 }
 .topic {
     font-family:"Akira";
