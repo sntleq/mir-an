@@ -8,7 +8,9 @@ body,a {
     text-decoration:none;
 }
 #welcome {
-    background:url("mir-an.png") no-repeat contain;
+    background-image:url("mir-an.png");
+    background-repeat:no-repeat;
+    background-size:contain;
     margin-top:100px;
 }
 h1 {
@@ -27,7 +29,6 @@ h1 {
 }
 .card {
     background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
-    min-width:550.8px;
     height:150px;
     padding:5px 20px;
     border-radius:25px;
@@ -41,8 +42,8 @@ h1 {
     font-size:700%;
     position:absolute;
     bottom:40%;
-    left:90%;
-    color:rgba(225,225,225,0.085);
+    left:85%;
+    color:rgba(225,225,225,0.09);
 }
 .topic {
     font-family:"Akira";
