@@ -25,20 +25,21 @@ h1 {
     margin:100px auto;
 }
 .card {
-    background-image:linear-gradient(300deg,rgba(255,255,255,0.08),rgba(255,255,255,0.1));
+    background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
     height:150px;
     padding:5px 20px;
     border-radius:25px;
     margin:25px auto;
     position:relative;
     overflow:hidden;
+    transition:transform 1s ease-in-out;
 }
 .num {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
     top:5%;
-    right:-2%;
+    left:70%
     color:rgba(225,225,225,0.5)
 }
 .topic {
@@ -50,18 +51,19 @@ h1 {
     z-index:1;
 }
 .link {
-    background-image:linear-gradient(300deg,rgba(255,255,255,0.1),rgba(255,255,255,0.12));
+    background-image:linear-gradient(300deg,rgba(255,255,255,0.1),rgba(255,255,255,0.13));
     float: right;
     top:10px;
     padding:13px 18px;
     border-radius:25px;
+    transition:transform 1s ease-in-out;
 }
 .card:hover {
     transform: scale(0.9,0.9)
 }
 .link:hover {
     transform: scale(0.9,0.9)
-    background-image:linear-gradient(300deg,rgba(255,255,255,0.12),rgba(255,255,255,0.14))
+    background-image:linear-gradient(300deg,rgba(255,255,255,0.15),rgba(255,255,255,0.18))
 }
 footer {
     margin-bottom:50px;
