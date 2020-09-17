@@ -10,8 +10,10 @@ body,a {
 a {
     font-weight:bold;
 }
-#tableofcontents {
+#welcome {
     margin-top:100px;
+}
+#tableofcontents {
     position:relative;
     top:15px;
 }
