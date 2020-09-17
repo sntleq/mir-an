@@ -20,9 +20,13 @@ a {
 .grey {
     color:gray;
 }
+.nosense {
+    color:#FFC107;
+}
 h1 {
     font-family:"Akira";
     font-size:320%;
+    line-height:5px;
     position:relative;
     top:10px;
     margin-bottom:0;
@@ -35,7 +39,7 @@ h2 {
     margin-bottom:0;
 }
 section {
-    margin:20px auto;
+    margin:50px auto 100px;
 }
 footer {
     margin-bottom:50px;
