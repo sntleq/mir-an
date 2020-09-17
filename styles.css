@@ -1,6 +1,6 @@
 /* base styles */
 
-body {
+body,a {
     font-family:"Montserrat";
     background-color:black;
     color:white;
@@ -42,8 +42,8 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    bottom:-40px;
-    left:40%;
+    bottom:-30px;
+    left:50%;
     color:rgba(225,225,225,0.09);
 }
 .topic {
