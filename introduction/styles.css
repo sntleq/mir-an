@@ -1,0 +1,48 @@
+/* base styles */
+
+body,a {
+    font-family:"Montserrat";
+    background-color:black;
+    color:white;
+    margin:0 auto;
+    text-decoration:none;
+}
+a {
+    font-weight:bold;
+}
+#tableofcontents {
+    margin-top:100px;
+    position:relative;
+    top:15px;
+}
+h1 {
+    font-family:"Akira";
+    font-size:320%;
+    position:relative;
+    top:10px;
+    margin-bottom:0;
+}
+h2 {
+    font-family:"Akira";
+    font-size:150%;
+    position:relative;
+    top:10px;
+    margin-bottom:0;
+}
+footer {
+    margin-bottom:50px;
+}
+@font-face {
+  font-family:"Akira";
+  src:url("/akira-expanded-demo.otf") format("opentype");
+}
+@font-face {
+  font-family:Montserrat;
+  src:url("/montserrat-regular.otf") format("opentype");
+}
+
+/* mobile styles*/
+
+body {
+    max-width:90%
+}
