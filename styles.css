@@ -1,11 +1,15 @@
 /* base styles */
 
-body,a {
+body {
     font-family:"Montserrat";
     background-color:black;
     color:white;
     margin:0 auto;
+}
+a {
+    font-weight:bold;
     text-decoration:none;
+    
 }
 #welcome {
     margin-top:100px;
