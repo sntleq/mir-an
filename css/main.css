@@ -77,11 +77,11 @@ footer {
 }
 @font-face {
   font-family:"Akira";
-  src:url("assets/akira-expanded-demo.otf") format("opentype");
+  src:url("../assets/akira-expanded-demo.otf") format("opentype");
 }
 @font-face {
   font-family:Montserrat;
-  src:url("assets/montserrat-regular.otf") format("opentype");
+  src:url("../assets/montserrat-regular.otf") format("opentype");
 }
 
 /* mobile styles*/
