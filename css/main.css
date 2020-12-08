@@ -30,6 +30,8 @@ h1 {
 }
 .cards {
     margin:6.25em auto;
+    display:flex;
+    justify-content:space-around safe;
 }
 .card {
     display:inline-block;
@@ -38,7 +40,7 @@ h1 {
     padding:0.3125em 1.25em;
     border-radius:1.5625em;
     width:18.75em;
-    margin:1.5625em auto;
+    margin:1.5625em;
     position:relative;
     overflow:hidden;
     transition:transform 1s ease-in-out;
@@ -47,7 +49,7 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    bottom:3.125em;
+    bottom:1em;
     left:30%;
     color:rgba(225,225,225,0.05);
 }
