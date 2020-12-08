@@ -2,7 +2,7 @@
 
 body,a {
     font-family:"Montserrat";
-    background-color:black;
+    background-color:gray;
     color:white;
     margin:0 auto;
     text-decoration:none;
@@ -11,7 +11,7 @@ a {
     font-weight:bold;
 }
 #welcome {
-    margin-top:100px;
+    margin-top:110px;
 }
 img {
     position:absolute;
@@ -24,8 +24,6 @@ img {
 h1 {
     font-family:"Akira";
     font-size:320%;
-    position:relative;
-    top:10px;
     margin-bottom:0;
 }
 #welcometext {
@@ -80,7 +78,7 @@ footer {
   src:url("../assets/akira-expanded-demo.otf") format("opentype");
 }
 @font-face {
-  font-family:Montserrat;
+  font-family:"Montserrat";
   src:url("../assets/montserrat-regular.otf") format("opentype");
 }
 
