@@ -2,7 +2,7 @@
 
 body,a {
     font-family:"Montserrat";
-    background-color:black;
+    background-color:#121212;
     color:white;
     margin:0 auto;
     text-decoration:none;
@@ -41,7 +41,7 @@ h1 {
     height:9.375em;
     padding:0.3125em 1.25em;
     border-radius:1.5625em;
-    max-width:18.75em;
+    width:18.75em;
     margin:1.5625em auto;
     position:relative;
     overflow:hidden;
@@ -51,6 +51,8 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
+    left:1em;
+    bottom:1em;
     color:rgba(225,225,225,0.05);
 }
 .topic {
