@@ -37,7 +37,7 @@ h1 {
     padding:0.3125em 1.25em;
     border-radius:1.5625em;
     width:18.75em;
-    margin:auto;
+    margin:1.5625em auto;
     position:relative;
     overflow:hidden;
     transition:transform 1s ease-in-out;
@@ -46,7 +46,7 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    bottom:-3.125em;
+    bottom:3.125em;
     left:30%;
     color:rgba(225,225,225,0.05);
 }
