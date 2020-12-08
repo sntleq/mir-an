@@ -2,7 +2,7 @@
 
 body,a {
     font-family:"Montserrat";
-    background-color:gray;
+    background-color:black;
     color:white;
     margin:0 auto;
     text-decoration:none;
@@ -29,6 +29,7 @@ h1 {
     margin-bottom:0;
 }
 .cards {
+    border: 5px;
     margin:6.25em auto;
     display:flex;
     flex-wrap:wrap;
@@ -40,8 +41,8 @@ h1 {
     height:9.375em;
     padding:0.3125em 1.25em;
     border-radius:1.5625em;
-    width:18.75em;
-    margin:1.5625em;
+    max-width:18.75em;
+    margin:1.5625em auto;
     position:relative;
     overflow:hidden;
     transition:transform 1s ease-in-out;
@@ -50,8 +51,6 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    bottom:1em;
-    left:30%;
     color:rgba(225,225,225,0.05);
 }
 .topic {
