@@ -2,7 +2,7 @@
 
 body,a {
     font-family:"Montserrat";
-    background-color:red;
+    background-color:black;
     color:white;
     margin:0 auto;
     text-decoration:none;
@@ -13,6 +13,7 @@ sub {
 }
 #welcome {
     margin-top:110px;
+    margin-bottom:0;
 }
 img {
     position:absolute;
