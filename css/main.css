@@ -30,7 +30,7 @@ img {
     font-family:"Akira";
     font-size:100%;
     text-align:center;
-    margin:-3.25em auto;
+    margin:-3.25em auto -1.625em;
 }
 h1 {
     font-family:"Akira";
@@ -60,7 +60,7 @@ h1 {
     font-family:"Akira";
     font-size:700%;
     position:absolute;
-    left:0.7em;
+    left:0.95em;
     bottom:-0.15em;
     color:rgba(225,225,225,0.05);
 }
