@@ -55,7 +55,7 @@ h1 {
     font-size:700%;
     position:absolute;
     left:0.2em;
-    bottom:0.0001em;
+    bottom:0em;
     color:rgba(225,225,225,0.05);
 }
 .topic {
