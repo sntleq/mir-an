@@ -12,6 +12,8 @@ a {
 }
 #welcome {
     margin-top:100px;
+    display:flex;
+    flex-wrap:wrap;
 }
 #tableofcontents {
     background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
