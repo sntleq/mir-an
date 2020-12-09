@@ -15,6 +15,9 @@ a {
     display:flex;
     flex-wrap:wrap;
 }
+#title {
+    margin-right:20%;
+}
 #tableofcontents {
     background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
     padding:0.3125em 1.25em;
