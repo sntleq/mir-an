@@ -27,7 +27,10 @@ img {
     z-index:-1;
 }
 #bonus {
-    margin:0 auto;
+    font-family:"Akira";
+    font-size:150%;
+    text-align:center;
+    margin:-6.25em auto;
 }
 h1 {
     font-family:"Akira";
