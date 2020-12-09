@@ -39,7 +39,7 @@ h1,h2,h3 {
     font-family:"Akira";
     line-height:0.75;
     position:relative;
-    top:10px;
+    top:0.625em;
     margin-bottom:0;
 }
 h1 {
@@ -52,10 +52,10 @@ h3 {
     font-size:90%;
 }
 section {
-    margin:50px auto;
+    margin:3.125em auto;
 }
 .articles {
-    margin:100px auto;
+    margin:6.25em auto;
 }
 img {
     width:90%;
