@@ -26,6 +26,9 @@ img {
     height:auto;
     z-index:-1;
 }
+#bonus {
+    margin:0 auto;
+}
 h1 {
     font-family:"Akira";
     font-size:320%;
