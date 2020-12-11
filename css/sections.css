@@ -66,10 +66,11 @@ section {
 }
 img {
     display:block;
-    max-width:80%;
+    width:80%;
     max-height:80vh;
     margin-left:0;
     margin-right:0;
+    border:1px solid black;
 }
 .tablediv {
     overflow-x:auto;
