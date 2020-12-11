@@ -16,7 +16,7 @@ a {
     display:flex;
     flex-wrap:wrap;
     justify-content:space-between;
-    align-items:flex-start;
+    align-items:center;
 }
 #title {
     margin-right:6.25em;
