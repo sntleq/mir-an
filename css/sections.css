@@ -9,6 +9,7 @@ body {
 a {
     text-decoration:none;
     font-weight:bold;
+    color: white;
 }
 #welcome {
     margin-top:100px;
@@ -36,7 +37,7 @@ a {
 .nosense {
     color:#FFC107;
 }
-h1,h2,h3 {
+h1,h2 {
     font-family:"Akira";
     line-height:0.75;
     position:relative;
@@ -51,6 +52,11 @@ h2 {
 }
 h3 {
     font-size:90%;
+    font-family:"Akira";
+    line-height:0.8;
+    position:relative;
+    top:0.1em;
+    margin-bottom:0;
 }
 section {
     margin:3.125em auto;
@@ -59,9 +65,11 @@ section {
     margin:6.25em auto;
 }
 img {
+    display:block;
     max-width:80%;
     max-height:80vh;
-    margin:0 auto;
+    margin-left:0;
+    margin-right:0;
 }
 .tablediv {
     overflow-x:auto;
