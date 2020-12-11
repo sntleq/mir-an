@@ -1,13 +1,13 @@
 /* base styles */
 
-body,a {
+body {
     font-family:"Montserrat";
     background-color:black;
     color:white;
     margin:0 auto;
-    text-decoration:none;
 }
 a {
+    text-decoration:none;
     font-weight:bold;
 }
 #welcome {
@@ -59,6 +59,7 @@ section {
     margin:6.25em auto;
 }
 img {
+    max-width:80%;
     max-height:80vh;
     margin:0 auto;
 }
