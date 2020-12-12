@@ -83,6 +83,17 @@ table,th,td {
 td {
     text-align:center;
 }
+#nav {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    align-items:center;
+}
+.navlink {
+    background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
+    padding:0.3125em 1.25em;
+    border-radius:1.5625em;
+}
 footer {
     margin-bottom:50px;
 }
