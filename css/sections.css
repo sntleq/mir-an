@@ -2,7 +2,7 @@
 
 body {
     font-family:"Montserrat";
-    background-color:black;
+    background-color:gray;
     color:white;
     margin:0 auto;
 }
@@ -94,6 +94,9 @@ td {
     padding:0.3125em 1.25em;
     border-radius:1.5625em;
 }
+.material_icons {
+    font-size:16;
+}
 footer {
     margin-bottom:50px;
 }
@@ -115,7 +118,7 @@ body {
 /* laptop styles */
 
 @media screen and (min-width:960px) {
-    body {
+    body,.material_icons {
         font-size:18px;
     }
 }
@@ -123,7 +126,7 @@ body {
 /* desktop styles */
 
 @media screen and (min-width:1200px) {
-    body {
+    body,.material_icons {
         font-size:20px;
         max-width:1200px;
     }
