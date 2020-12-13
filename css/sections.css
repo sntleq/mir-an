@@ -90,7 +90,7 @@ td {
     align-items:center;
 }
 .navlink {
-    background-image:linear-gradient(300deg,rgba(255,255,255,0.05),rgba(255,255,255,0.08));
+    background-image:linear-gradient(300deg,rgba(255,255,255,0.1),rgba(255,255,255,0.13));
     padding:0.8125em 1.125em;
     border-radius:1.5625em;
 }
