@@ -11,6 +11,12 @@ a {
     font-weight:bold;
     color: white;
 }
+a:visited {
+    color:rgba(255,255,255,0.7);
+}
+a:hover {
+    text-decoration:underline;
+}
 #welcome {
     margin-top:100px;
     display:flex;
