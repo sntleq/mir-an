@@ -20,9 +20,9 @@ sub {
 }
 img {
     position:absolute;
-    top:15vh;
+    top:5vh;
     right:10vw;
-    height:50vh;
+    height:45vh;
     width:auto;
     z-index:-1;
 }
