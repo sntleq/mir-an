@@ -17,14 +17,16 @@ sub {
 #welcome {
     margin-top:110px;
     margin-bottom:0;
+    position:relative;
+    border:1px solid white;
 }
 img {
     position:absolute;
-    top:5vh;
     right:10vw;
-    height:45vh;
+    height:100%;
     width:auto;
     z-index:-1;
+    border:1px solid green;
 }
 #bonus {
     font-family:"Akira";
