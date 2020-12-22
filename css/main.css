@@ -22,11 +22,12 @@ sub {
 }
 img {
     position:absolute;
+    top:0;
     right:10vw;
     height:100%;
     width:auto;
     z-index:-1;
-    border:1px solid green;
+    border:1px solid red;
 }
 #bonus {
     font-family:"Akira";
