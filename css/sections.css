@@ -78,6 +78,7 @@ img {
     margin-left:auto;
     margin-right:auto;
     filter:grayscale(100%);
+    filter:contrast(200%);
 }
 .rotate {
     -webkit-transform: rotate(270deg);
