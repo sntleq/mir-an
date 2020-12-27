@@ -90,6 +90,10 @@ img {
     max-height:50vh;
     margin:-5em auto;
 }
+sub {
+    position:relative;
+    bottom:0.625em;
+}
 .tablediv {
     overflow-x:auto;
 }
