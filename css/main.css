@@ -39,7 +39,6 @@ h1 {
     margin-bottom:0;
 }
 .cards {
-    border: 5px;
     margin:6.25em auto;
     display:flex;
     flex-wrap:wrap;
