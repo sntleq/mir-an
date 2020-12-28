@@ -92,7 +92,7 @@ img {
     max-height: 50vh;
     margin-left: auto;
     margin-right: auto;
-    filter: saturate(300%) contrast(300%) grayscale(100%);
+  //filter: saturate(300%) contrast(300%) grayscale(100%);//
 }
 
 .rotate {
